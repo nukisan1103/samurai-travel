@@ -33,3 +33,10 @@ build/
 .vscode/
 
 /src/main/resources/application-development.properties
+
+Library/
+.Trash/
+Documents/
+Downloads/
+.ssh
+*.git
