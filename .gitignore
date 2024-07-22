@@ -39,4 +39,9 @@ Library/
 Documents/
 Downloads/
 .ssh
+*.gitLibrary/
+.Trash/
+Documents/
+Downloads/
+.ssh
 *.git
